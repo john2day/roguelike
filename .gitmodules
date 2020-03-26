@@ -1,3 +1,3 @@
-[submodule "lily-pad"]
-	path = lily-pad
+[submodule "modules/lily-pad"]
+	path = modules/lily-pad
 	url = https://github.com/weymouth/lily-pad
